@@ -3,14 +3,22 @@
 #### Title of Assignment
 How does a policy come from misuse of a technology?
 
+
+
 #### Assigned
 Monday, 3 December 2021
+
+
 
 #### Due
 Wednesday, 15 December 2021, 9:00am
 
+
+
 #### Work File
 You are to place your text in the File, `writing/techAndPolicy.md`. Your work must be submitted on GitHub. Please do not submit your work via email or send shared documents.
+
+
 
 #### Overview
 During this course, we have been talking about how a technology, or interpretation of data, had been designed to address and (hopefully) to resolve a particular task. Our discussion continued towards the use and potential misuses of the technology or data. During our conversation, we uncovered many cases where misuse was an actual reality. This effort inspired several writing assignments where you wrote meaningfully about the types of damages and unintended consequences that could result from misuse of technology or incorrect/inappropriate analysis/application of data.
