@@ -1,15 +1,15 @@
-### FS101_F2021, Assignment 10
+#### FS101_F2021, Assignment 10
 
-### Title of Assignment
+#### Title of Assignment
 How does a policy come from misuse of a technology?
 
-### Assigned
+#### Assigned
 Monday, 3 December 2021
 
-### Due
+#### Due
 Wednesday, 15 December 2021, 9:00am
 
-### Work File
+#### Work File
 You are to place your text in the File, `writing/techAndPolicy.md`. Your work must be submitted on GitHub. Please do not submit your work via email or send shared documents.
 
 #### Overview
@@ -58,7 +58,7 @@ The flow of your work should take the following general form. Please use referen
 
 
 
-### Special Note: Informed Consent
+#### Special Note: Informed Consent
 
 Our section of FS 101 has been asked by the FS Leadership Team (FSLT) to participate in its assessment plan. As part of this project, Dr. Bonham-Carter will be submitting samples of student work to the FSLT for analysis. Student names will be removed from all materials. All student work will then be anonymous, and individual students will not be identifiable to the readers.
 
@@ -66,12 +66,12 @@ Participation in this assessment plan will have no impact on students’ course 
 
 
 
-### Consulting
+#### Consulting
 Please feel free to consult with the connected writing Consultant for our course: **Kelsey Anderson**. You can schedule a visit with Kelsey using [https://docs.google.com/document/d/1SKbzTEe2S8udQ68VnJXI_MonRcYbYjvjBFoN5RFzeT8/edit?usp=sharing](https://docs.google.com/document/d/1SKbzTEe2S8udQ68VnJXI_MonRcYbYjvjBFoN5RFzeT8/edit?usp=sharing) for office hours. This link is also available on the course website.
 
 
 
-## GitHub and Markdown
+#### GitHub and Markdown
 
  - First, please familiarize yourself with GitHub. For example, [Git Handbook](https://guides.github.com/introduction/git-handbook/) provides a good reference guide. If you require more help, please read all of the relevant [GitHub Guides](https://guides.github.com/) that explain how to use many of the features that GitHub provides. In particular, please make sure that you have read the following GitHub guides: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Hello World](https://guides.github.com/activities/hello-world/), and [Documenting Your Projects on GitHub](https://guides.github.com/features/wikis/). Each of these guides will help you to understand how to use both [GitHub](http://github.com) and [GitHub Classroom](https://classroom.github.com/).
 
