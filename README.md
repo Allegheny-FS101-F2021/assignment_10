@@ -3,17 +3,11 @@
 #### Title of Assignment
 How does a policy come from misuse of a technology?
 
-
-
 #### Assigned
 Monday, 3 December 2021
 
-
-
 #### Due
 Wednesday, 15 December 2021, 9:00am
-
-
 
 #### Work File
 You are to place your text in the File, `writing/techAndPolicy.md`. Your work must be submitted on GitHub. Please do not submit your work via email or send shared documents.

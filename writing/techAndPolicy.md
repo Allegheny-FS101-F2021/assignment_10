@@ -1,24 +1,20 @@
-### FS101_F2021, Assignment 9
+#### FS101_F2021, Assignment 10
 
-### Title of Assignment
-Name and explain that policy!
+#### Title of Assignment
+How does a policy come from misuse of a technology?
 
-### Assigned
-Monday, 29 November 2021
+#### Assigned
+Monday, 3 December 2021
+
+#### Due
+Wednesday, 15 December 2021, 9:00am
+
 
 ### Name
 Add your name here
 
 
 
-### My policy is ...
-
-`TODO`
-
-
-### References
- - Official name: `TODO`
- - link: `TODO`
 
 ---
 
