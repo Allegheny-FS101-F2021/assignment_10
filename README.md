@@ -24,36 +24,36 @@ In this assignment, you are required to write an essay of about 2000 words, abou
 
 The flow of your work should take the following general form. Please use references to back up any factual information you provide or any claims you make.
 
-  - **SECTION CONCERNING: INTRODUCTION**
-  - Choose a technology or a particular use of data
-  - What is the tech? Why was is created?
+- **SECTION CONCERNING: INTRODUCTION**
+	- Choose a technology or a particular use of data
+	- What is the tech? Why was is created?
 
-  - **SECTION CONCERNING: THE TECH IS HELPFUL TO OTHERS**
-   - How and when is this technology used?
-   - How does the technology benefit others?
+- **SECTION CONCERNING: THE TECH IS HELPFUL TO OTHERS**
+	- How and when is this technology used?
+	- How does the technology benefit others?
 
-  - **SECTION CONCERNING: MISUSES OR UNINTENDED CONSEQUENCES OF THE TECH**
-   - How is this technology misused?
-   - What does the tech do that causes harm to others?
+- **SECTION CONCERNING: MISUSES OR UNINTENDED CONSEQUENCES OF THE TECH**
+	- How is this technology misused?
+	- What does the tech do that causes harm to others?
 
-  - **SECTION CONCERNING: POLICY INTERVENTION IN TECHNOLOGY**
-   - What is the policy about?
-   - Where does the policy come from, who created it?
-   - What does the policy cover? How does the tech apply to the policy?
-   - How is the tech governed by the policy?
-   - Who benefits or suffers from the implementation of the policy?
+- **SECTION CONCERNING: POLICY INTERVENTION IN TECHNOLOGY**
+	- What is the policy about?
+	- Where does the policy come from, who created it?
+	- What does the policy cover? How does the tech apply to the policy?
+	- How is the tech governed by the policy?
+	- Who benefits or suffers from the implementation of the policy?
 
-  - **SECTION CONCERNING: YOUR TAKE ON THE TECHNOLOGY WITH THE POLICY**
-   - Why are you interested in the tech and the policy?
-   - Is the world in a better place because of the policy to govern the tech?
-   - What could still go wrong with the use/misuse of tech that may not be affected by the policy?
+- **SECTION CONCERNING: YOUR TAKE ON THE TECHNOLOGY WITH THE POLICY**
+	- Why are you interested in the tech and the policy?
+	- Is the world in a better place because of the policy to govern the tech?
+	- What could still go wrong with the use/misuse of tech that may not be affected by the policy?
 
-  - **SECTION: REFERENCES**
-   - Article reference 1
-   - Article reference 2
-   - Article reference 3
-   - Article reference 4
-   - Article reference 5
+- **SECTION: REFERENCES**
+	- Article reference 1
+	- Article reference 2
+	- Article reference 3
+	- Article reference 4
+	- Article reference 5
 
 
 
